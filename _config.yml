@@ -21,10 +21,10 @@ repository               : "Qianye-Liu/Qianye-Liu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "qianye.png"
   name             : "Qianye Liu（柳芊叶）"
   pronouns         : # example: "she/her"  
-  bio              : "A third-year Master Student"
+  bio              : "Hi, nice to meet you."
   location         : "Wuhan, China"
   employer         : "Zhongnan University of Economics and Law"#"Red Brick University"
   uri              : # URL
