@@ -11,7 +11,7 @@ I'm a third year master student from [Wenlan School of Business](http://wls.zuel
 
 You can find my CV here: [Qinaye Liu's Curriculum Vitae](../assets/Qianye Liu_CV_0823.pdf).
 
-Contact: [Email](liuqianye@stu.zuel.edu.cn) / [Github](https://github.com/Qianye-Liu)
+Contact: [Email](mailto:liuqianye@stu.zuel.edu.cn) / [Github](https://github.com/Qianye-Liu)
 
 A data-driven personal website
 ======
