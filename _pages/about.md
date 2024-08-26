@@ -6,29 +6,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
+My name is **Qianye Liu (Leaf, 柳芊叶)**.
 
-I'm a third year master student from [Wenlan School of Business](http://wls.zuel.edu.cn/), [Zhongnan University of Economics and Law](https://www.zuel.edu.cn/). My research interest includes Data Science, Big Data, Large Language Model, Efficiency Analysis, Human-Computer Interaction, and AI.
+I'm a third-year master student from [Wenlan School of Business](http://wls.zuel.edu.cn/), [Zhongnan University of Economics and Law (ZUEL)](https://www.zuel.edu.cn/), majoring in Applied Economics. I am extremely fortunate to be advised by [Chuan Wang](https://www.researchgate.net/profile/Chuan-Wang-52), [Qiang Gong](https://wls.zuel.edu.cn/eng/2018/0830/c7071a197968/page.htm), and [Yujing Gong](https://wls.zuel.edu.cn/eng/2018/1205/c7071a205709/page.htm).
 
 You can find my CV here: [Qinaye Liu's Curriculum Vitae](../assets/Qianye Liu_CV_0823.pdf).
 
 Contact: [Email](mailto:liuqianye@stu.zuel.edu.cn) / [Github](https://github.com/Qianye-Liu)
 
-A data-driven personal website
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My previous research focuses on **Data Science**, **Efficiency Analysis** and **econometrics**. Currently, my interests are on the **Large Language Model (LLM)** and its applications in industry. In a word, advanced technologies like LLM are positively influencing our life, considering the tools like ChatGPT, I wish to explore the **prompt enginerring** and AI efficiency, devoteing my talent to the field of **Human-Computer Interaction**.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- 09/2022 - 06/2025(now), Zhongnan University of Economics and Law,
+- 09/2018 - 06/2022, Hubei University,
 
-Site-wide configuration
+Projects
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
