@@ -12,7 +12,7 @@ title                    : "Qianye Liu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Qianye Liu"
 description              : &description "personal description"
-url                      : https://qianye-liu.github.io #e.g. "https://mmistakes.github.io"
+url                      : "https://qianye-liu.github.io" #e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Qianye-Liu/Qianye-Liu.github.io"
 
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Qianye Liu（柳芊叶）"
   pronouns         : # example: "she/her"  
-  bio              : "Zhongnan University of Economics and Law"
+  bio              : "A third-year Master Student"
   location         : "Wuhan, China"
-  employer         : #"Red Brick University"
+  employer         : "Zhongnan University of Economics and Law"#"Red Brick University"
   uri              : # URL
   email            : "liuqianye@stu.zuel.edu.cn" 
 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0008-2961-9903"#"http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
