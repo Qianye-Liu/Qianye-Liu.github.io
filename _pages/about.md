@@ -27,29 +27,57 @@ Education
 
 Main Research and Projects
 ======
-# Big Data, Machine Learning & AI
-- ## Large Language Models (LLM) Smart Q&A Robot - Prompt Engineering, Tianfeng Securities Co., Ltd., Data Finance Center (2024.07-2024.09)
+**Big Data, Machine Learning & AI**
+- Large Language Models (LLM) Smart Q&A Robot - Prompt Engineering, *Tianfeng Securities Co., Ltd., Data Finance Center*. (2024.07-2024.09)
      *Research Asssistant*
-      - Optimized the response accuracy of the question-answering robot through prompt engineering.
-      - Conducted assessments of model efficiency and performance analysis.
-      - Enhanced user interaction by integrating advanced natural language processing techniques.
+- Predicting Financial Fraud with AI: A Deep Learning Approach, *Zhongnan University of Economics and Law, National Natural Science Foundation of China Youth Preparatory Project*. (2021.09-2022.02)
+     *Research Asssistant*
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+**Efficiency Analysis, Economy & Econometric**
+- Bank ESG and Corporate Green productivity: A Decomposition Approach, *Zhongnan University of Economics and Law, Digital Economy Research Center*. (2024.03-present)
+     *Project Leader*
+- Photovoltaic Industry Innovation Efficiency: Structural Equation Modeling Analysis, *Nanjing University, Project of Social Science Foundation of Jiangsu Province*. (2023.07-2024.07)
+     *Research Asssistant*
+- Efficiency Maximization Using m-Frontier Approach, *Zhongnan University of Economics and Law, Digital Economy Research Center*. (2023.01-2023.07)
+     *Project Leader*
+- Patent and Corporate Performance: A PCA-Based Analysis, *The Chinese Academy of Sciences, Information Science Research Center*. (2021.09-2022.07)
+     *Research Asssistant*
 
-**Markdown generator**
+Publications
+======
+**In Process**
+- Li X.Y., & **Liu Q.Y.** \[Correspondent Author\] (2023). Unlocking Value through Patents: How Innovation Drives Firm Performance. Journal of the Knowledge Economy. Under review.
+- Li X.Y., & **Liu Q.Y.** \[Correspondent Author\] (2023). Measurement and mechanism analysis of innovation efficiency of the photovoltaic industry in China. Sustainable Energy Technologies and Assessments. Under review.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+**Working Papers**
+- **Liu Q.Y.** \[First Author\], & Wang C. (2024). Bank ESG and Chinese manufactural firm’s Green Total Factor Productivity: A Decomposition Approach.
+- **Liu Q.Y.** (2021). Digital Financial Innovation: Implications for Corporate Creativity and Invention.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Conferences
+======
+- 2023.07, The 8th annual conference of the Society for Economic Measurement, Milan, Italy. (Oral Presentation)
+- 2023.04, The 17th international conference of the Western Economic Association International, Melbourne, Australia. (Oral Presentation)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Honors and Awards
+======
+- 2022.09, Professional First-Class Scholarship (TOP 1%), *Zhongnan University of Economics and Law*.
+- 2022.06, "Top Ten Outstanding Students" and "Excellent Graduate"(only TOP 1%), *Hubei University*.
+- 2021.07, Bronze Award of the 7th National "Internet +" Competition, *Hubei University*.
+- 2020.05, CP Cup Research Proposition Excellent Paper Award, *Chinese Society for Business Statistics*.
+- 2019.12, First Prize in the 11th National College Student Mathematics Competition, *Chinese Mathematical Society*.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Skills
+======
+- **Language**: IELTS Score 6.0 (with Reading 7.0); TOEFL Score 75; Proficient in academic English writing.
+- **Programming**: Proficient in PYTHON, R, MATLAB, STATA; Master the basic knowledge of JAVA and C++.
+- **Certifications**: Holder of the National Professional Qualification Certificate in Market Research and Analysis.
+
+
+
+
+
+
+
+
+
+
