@@ -44,8 +44,8 @@ Main Research and Projects
 Publications
 ======
 **In Process**
-- Li X.Y., & **Liu Q.Y. \[Correspondent Author\]** (2023). Unlocking Value through Patents: How Innovation Drives Firm Performance. Journal of the Knowledge Economy. Under review.
-- Li X.Y., & **Liu Q.Y. \[Correspondent Author\]** (2023). Measurement and mechanism analysis of innovation efficiency of the photovoltaic industry in China. Sustainable Energy Technologies and Assessments. Under review.
+- Li X.Y., & **Liu Q.Y. \[Correspondent Author\]** (2023). Unlocking Value through Patents: How Innovation Drives Firm Performance. *Journal of the Knowledge Economy*. Under review.
+- Li X.Y., & **Liu Q.Y. \[Correspondent Author\]** (2023). Measurement and mechanism analysis of innovation efficiency of the photovoltaic industry in China. *Sustainable Energy Technologies and Assessments*. Under review.
 
 **Working Papers**
 - **Liu Q.Y. \[First Author\]**, & Wang C. (2024). Bank ESG and Chinese manufactural firm’s Green Total Factor Productivity: A Decomposition Approach.
