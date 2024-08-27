@@ -28,18 +28,18 @@ Education
 Main Research and Projects
 ======
   **Big Data, Machine Learning & AI**
-  - 2024.07-2024.09, Large Language Models (LLM) Smart Q&A Robot - Prompt Engineering, *Tianfeng Securities Co., Ltd., Data Finance Center*. (*Research Asssistant*)
+  - 2024.07 - 2024.09: Large Language Models (LLM) Smart Q&A Robot - Prompt Engineering, *Tianfeng Securities Co., Ltd., Data Finance Center*. (__*Research Asssistant*__)
      
-  - 2021.09-2022.02, Predicting Financial Fraud with AI: A Deep Learning Approach, *Zhongnan University of Economics and Law, National Natural Science Foundation of China Youth Preparatory Project*. (*Research Asssistant*)
+  - 2021.09 - 2022.02: Predicting Financial Fraud with AI: A Deep Learning Approach, *Zhongnan University of Economics and Law, National Natural Science Foundation of China Youth Preparatory Project*. (__*Research Asssistant*__)
      
   **Efficiency Analysis, Economy & Econometric**
-  - 2024.03-present, Bank ESG and Corporate Green productivity: A Decomposition Approach, *Zhongnan University of Economics and Law, Digital Economy Research Center*. (*Project Leader*)
+  - 2024.03 - present: Bank ESG and Corporate Green productivity: A Decomposition Approach, *Zhongnan University of Economics and Law, Digital Economy Research Center*. (__*Project Leader*__)
      
-  - 2023.07-2024.07, Photovoltaic Industry Innovation Efficiency: Structural Equation Modeling Analysis, *Nanjing University, Project of Social Science Foundation of Jiangsu Province*. (*Research Asssistant*)
+  - 2023.07 - 2024.07: Photovoltaic Industry Innovation Efficiency: Structural Equation Modeling Analysis, *Nanjing University, Project of Social Science Foundation of Jiangsu Province*. (__*Research Asssistant*__)
      
-  - 2023.01-2023.07, Efficiency Maximization Using m-Frontier Approach, *Zhongnan University of Economics and Law, Digital Economy Research Center*. (*Project Leader*)
+  - 2023.01 - 2023.07: Efficiency Maximization Using m-Frontier Approach, *Zhongnan University of Economics and Law, Digital Economy Research Center*. (__*Project Leader*__)
      
-  - 2021.09-2022.07, Patent and Corporate Performance: A PCA-Based Analysis, *The Chinese Academy of Sciences, Information Science Research Center*. (*Research Asssistant*)
+  - 2021.09 - 2022.07: Patent and Corporate Performance: A PCA-Based Analysis, *The Chinese Academy of Sciences, Information Science Research Center*. (__*Research Asssistant*__)
 
 Publications
 ======
