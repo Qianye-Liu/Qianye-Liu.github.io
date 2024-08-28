@@ -16,7 +16,7 @@ Contact: [Email](mailto:liuqianye@stu.zuel.edu.cn) / [Github](https://github.com
 
 Research Interests
 ======
-My previous research focuses on **Data Science**, **Efficiency Analysis** and **econometrics**. Currently, my interests are on the **Large Language Model (LLM)** and its applications in industry. In a word, advanced technologies like LLM are positively influencing our life, considering the tools like ChatGPT, I wish to explore the **prompt enginerring** and AI efficiency, devoteing my talent to the field of **Human-Computer Interaction**.
+My previous research focuses on **Data Science**, **Efficiency Analysis** and **Econometrics**. Currently, my interests are on the **Large Language Model (LLM)** and its applications in industry. In a word, advanced technologies like LLM are positively influencing our life, considering the tools like ChatGPT, I wish to explore the **prompt engineering** and **AI efficiency**, devoteing my talent to the field of **Human-Computer Interaction**.
 
 Education
 ======
